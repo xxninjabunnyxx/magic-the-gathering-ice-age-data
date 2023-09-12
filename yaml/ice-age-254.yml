@@ -1,0 +1,113 @@
+---
+object: card
+id: 5277656c-70f5-4660-bd58-7d9261d53fb5
+oracle_id: c9798915-3f9e-466b-bbd6-f4e126bdb67d
+multiverse_ids:
+- 2578
+tcgplayer_id: 4788
+cardmarket_id: 6354
+name: Maddening Wind
+lang: en
+released_at: '1995-06-03'
+uri: https://api.scryfall.com/cards/5277656c-70f5-4660-bd58-7d9261d53fb5
+scryfall_uri: https://scryfall.com/card/ice/254/maddening-wind?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/2/5277656c-70f5-4660-bd58-7d9261d53fb5.jpg?1587912036
+  normal: https://cards.scryfall.io/normal/front/5/2/5277656c-70f5-4660-bd58-7d9261d53fb5.jpg?1587912036
+  large: https://cards.scryfall.io/large/front/5/2/5277656c-70f5-4660-bd58-7d9261d53fb5.jpg?1587912036
+  png: https://cards.scryfall.io/png/front/5/2/5277656c-70f5-4660-bd58-7d9261d53fb5.png?1587912036
+  art_crop: https://cards.scryfall.io/art_crop/front/5/2/5277656c-70f5-4660-bd58-7d9261d53fb5.jpg?1587912036
+  border_crop: https://cards.scryfall.io/border_crop/front/5/2/5277656c-70f5-4660-bd58-7d9261d53fb5.jpg?1587912036
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature
+  Cumulative upkeep {G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+  At the beginning of the upkeep of enchanted creature's controller, Maddening Wind deals 2 damage to that player.
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Enchant
+- Cumulative upkeep
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set: ice
+set_name: Ice Age
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5277656c-70f5-4660-bd58-7d9261d53fb5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac9798915-3f9e-466b-bbd6-f4e126bdb67d&unique=prints
+collector_number: '254'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "It is Freyalise, walking on the world."
+  —Kolbjörn, Elder Druid of the Juniper Order
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dameon Willich
+artist_ids:
+- 606a37b0-9d2d-477b-b679-100bc30b46b3
+illustration_id: 51233189-3ddf-4771-896f-eca194e16490
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 24456
+prices:
+  usd: '0.18'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2578
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Maddening+Wind&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Maddening+Wind&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Maddening+Wind
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/4788?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Maddening+Wind&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Maddening+Wind&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

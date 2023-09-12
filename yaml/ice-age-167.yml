@@ -1,0 +1,110 @@
+---
+object: card
+id: a49c658f-e657-490b-af1f-e67e48d0046e
+oracle_id: 52a768eb-16eb-4643-b8be-7a4b5b32f28b
+multiverse_ids:
+- 2491
+tcgplayer_id: 4922
+cardmarket_id: 6267
+name: Touch of Death
+lang: en
+released_at: '1995-06-03'
+uri: https://api.scryfall.com/cards/a49c658f-e657-490b-af1f-e67e48d0046e
+scryfall_uri: https://scryfall.com/card/ice/167/touch-of-death?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/4/a49c658f-e657-490b-af1f-e67e48d0046e.jpg?1562925773
+  normal: https://cards.scryfall.io/normal/front/a/4/a49c658f-e657-490b-af1f-e67e48d0046e.jpg?1562925773
+  large: https://cards.scryfall.io/large/front/a/4/a49c658f-e657-490b-af1f-e67e48d0046e.jpg?1562925773
+  png: https://cards.scryfall.io/png/front/a/4/a49c658f-e657-490b-af1f-e67e48d0046e.png?1562925773
+  art_crop: https://cards.scryfall.io/art_crop/front/a/4/a49c658f-e657-490b-af1f-e67e48d0046e.jpg?1562925773
+  border_crop: https://cards.scryfall.io/border_crop/front/a/4/a49c658f-e657-490b-af1f-e67e48d0046e.jpg?1562925773
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: |-
+  Touch of Death deals 1 damage to target player or planeswalker. You gain 1 life.
+  Draw a card at the beginning of the next turn's upkeep.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set: ice
+set_name: Ice Age
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a49c658f-e657-490b-af1f-e67e48d0046e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A52a768eb-16eb-4643-b8be-7a4b5b32f28b&unique=prints
+collector_number: '167'
+digital: false
+rarity: common
+flavor_text: |-
+  "What was yours is mine. Your land, your people, and now your life."
+  —Lim-Dûl, the Necromancer
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Melissa A. Benson
+artist_ids:
+- 9ade7727-1436-4828-9a1d-487c3d2ad1d9
+illustration_id: 6bb11f5f-ed61-48a9-8113-9c68824aaf72
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23097
+prices:
+  usd: '0.15'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2491
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Touch+of+Death&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Touch+of+Death&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Touch+of+Death
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/4922?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Touch+of+Death&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Touch+of+Death&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,107 @@
+---
+object: card
+id: 6107388b-ec1e-401e-a407-a821c908ed8d
+oracle_id: 8266dd1c-e262-4467-a893-6b3b5eedb427
+multiverse_ids:
+- 2657
+tcgplayer_id: 4921
+cardmarket_id: 6433
+name: Total War
+lang: en
+released_at: '1995-06-03'
+uri: https://api.scryfall.com/cards/6107388b-ec1e-401e-a407-a821c908ed8d
+scryfall_uri: https://scryfall.com/card/ice/221/total-war?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/1/6107388b-ec1e-401e-a407-a821c908ed8d.jpg?1562912936
+  normal: https://cards.scryfall.io/normal/front/6/1/6107388b-ec1e-401e-a407-a821c908ed8d.jpg?1562912936
+  large: https://cards.scryfall.io/large/front/6/1/6107388b-ec1e-401e-a407-a821c908ed8d.jpg?1562912936
+  png: https://cards.scryfall.io/png/front/6/1/6107388b-ec1e-401e-a407-a821c908ed8d.png?1562912936
+  art_crop: https://cards.scryfall.io/art_crop/front/6/1/6107388b-ec1e-401e-a407-a821c908ed8d.jpg?1562912936
+  border_crop: https://cards.scryfall.io/border_crop/front/6/1/6107388b-ec1e-401e-a407-a821c908ed8d.jpg?1562912936
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Enchantment
+oracle_text: Whenever a player attacks with one or more creatures, destroy all untapped
+  non-Wall creatures that player controls that didn't attack, except for creatures
+  the player hasn't controlled continuously since the beginning of the turn.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set: ice
+set_name: Ice Age
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6107388b-ec1e-401e-a407-a821c908ed8d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8266dd1c-e262-4467-a893-6b3b5eedb427&unique=prints
+collector_number: '221'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Drew Tucker
+artist_ids:
+- 22eef389-7b21-4dda-95dc-4c9a0f1bf4dd
+illustration_id: 2716d1ce-9a7d-480a-b8e0-bd50d93e5890
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15362
+prices:
+  usd: '0.97'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.13'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2657
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Total+War&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Total+War&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Total+War
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/4921?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Total+War&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Total+War&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

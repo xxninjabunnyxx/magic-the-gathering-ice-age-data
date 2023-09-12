@@ -1,0 +1,107 @@
+---
+object: card
+id: a914138c-a593-414c-bbcb-83d3c1bc4f6f
+oracle_id: 539d7c1a-b5e9-4204-9109-ddb2e8dec168
+multiverse_ids:
+- 2482
+tcgplayer_id: 4844
+cardmarket_id: 6258
+name: Pox
+lang: en
+released_at: '1995-06-03'
+uri: https://api.scryfall.com/cards/a914138c-a593-414c-bbcb-83d3c1bc4f6f
+scryfall_uri: https://scryfall.com/card/ice/158/pox?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/9/a914138c-a593-414c-bbcb-83d3c1bc4f6f.jpg?1562926598
+  normal: https://cards.scryfall.io/normal/front/a/9/a914138c-a593-414c-bbcb-83d3c1bc4f6f.jpg?1562926598
+  large: https://cards.scryfall.io/large/front/a/9/a914138c-a593-414c-bbcb-83d3c1bc4f6f.jpg?1562926598
+  png: https://cards.scryfall.io/png/front/a/9/a914138c-a593-414c-bbcb-83d3c1bc4f6f.png?1562926598
+  art_crop: https://cards.scryfall.io/art_crop/front/a/9/a914138c-a593-414c-bbcb-83d3c1bc4f6f.jpg?1562926598
+  border_crop: https://cards.scryfall.io/border_crop/front/a/9/a914138c-a593-414c-bbcb-83d3c1bc4f6f.jpg?1562926598
+mana_cost: "{B}{B}{B}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Each player loses a third of their life, then discards a third of the
+  cards in their hand, then sacrifices a third of the creatures they control, then
+  sacrifices a third of the lands they control. Round up each time.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set: ice
+set_name: Ice Age
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a914138c-a593-414c-bbcb-83d3c1bc4f6f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A539d7c1a-b5e9-4204-9109-ddb2e8dec168&unique=prints
+collector_number: '158'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Cornelius Brudi
+artist_ids:
+- 1dac5a8b-ce8d-43f0-95ee-2180a4502344
+illustration_id: b3da07e5-16ee-45aa-b4ec-c00f136abf8a
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7615
+prices:
+  usd: '4.88'
+  usd_foil: 
+  usd_etched: 
+  eur: '3.68'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2482
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pox&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pox&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Pox
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/4844?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pox&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pox&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

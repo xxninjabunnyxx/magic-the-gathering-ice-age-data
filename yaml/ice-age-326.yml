@@ -1,0 +1,111 @@
+---
+object: card
+id: 34f7bad2-d28f-42d2-9246-fe3545ef49a7
+oracle_id: e2ad4b4d-d5fe-4a64-9b40-296c8fc8bcce
+multiverse_ids:
+- 2412
+tcgplayer_id: 4751
+cardmarket_id: 6513
+name: Jeweled Amulet
+lang: en
+released_at: '1995-06-03'
+uri: https://api.scryfall.com/cards/34f7bad2-d28f-42d2-9246-fe3545ef49a7
+scryfall_uri: https://scryfall.com/card/ice/326/jeweled-amulet?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/4/34f7bad2-d28f-42d2-9246-fe3545ef49a7.jpg?1562904816
+  normal: https://cards.scryfall.io/normal/front/3/4/34f7bad2-d28f-42d2-9246-fe3545ef49a7.jpg?1562904816
+  large: https://cards.scryfall.io/large/front/3/4/34f7bad2-d28f-42d2-9246-fe3545ef49a7.jpg?1562904816
+  png: https://cards.scryfall.io/png/front/3/4/34f7bad2-d28f-42d2-9246-fe3545ef49a7.png?1562904816
+  art_crop: https://cards.scryfall.io/art_crop/front/3/4/34f7bad2-d28f-42d2-9246-fe3545ef49a7.jpg?1562904816
+  border_crop: https://cards.scryfall.io/border_crop/front/3/4/34f7bad2-d28f-42d2-9246-fe3545ef49a7.jpg?1562904816
+mana_cost: "{0}"
+cmc: 0.0
+type_line: Artifact
+oracle_text: |-
+  {1}, {T}: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate only if there are no charge counters on Jeweled Amulet.
+  {T}, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set: ice
+set_name: Ice Age
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/34f7bad2-d28f-42d2-9246-fe3545ef49a7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae2ad4b4d-d5fe-4a64-9b40-296c8fc8bcce&unique=prints
+collector_number: '326'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: e66b0341-3858-4aee-8e21-e8cc7d4d05c9
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3860
+prices:
+  usd: '1.87'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.25'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2412
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Jeweled+Amulet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Jeweled+Amulet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Jeweled+Amulet
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/4751?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jeweled+Amulet&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jeweled+Amulet&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

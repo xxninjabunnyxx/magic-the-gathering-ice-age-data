@@ -1,0 +1,114 @@
+---
+object: card
+id: ce76f38f-566e-49ff-b197-510cfa1cb51c
+oracle_id: 73b70a48-b62c-4fdf-9c2d-c6d6688f9ac8
+multiverse_ids:
+- 2701
+tcgplayer_id: 4769
+cardmarket_id: 6477
+name: Kjeldoran Warrior
+lang: en
+released_at: '1995-06-03'
+uri: https://api.scryfall.com/cards/ce76f38f-566e-49ff-b197-510cfa1cb51c
+scryfall_uri: https://scryfall.com/card/ice/41/kjeldoran-warrior?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/e/ce76f38f-566e-49ff-b197-510cfa1cb51c.jpg?1587911557
+  normal: https://cards.scryfall.io/normal/front/c/e/ce76f38f-566e-49ff-b197-510cfa1cb51c.jpg?1587911557
+  large: https://cards.scryfall.io/large/front/c/e/ce76f38f-566e-49ff-b197-510cfa1cb51c.jpg?1587911557
+  png: https://cards.scryfall.io/png/front/c/e/ce76f38f-566e-49ff-b197-510cfa1cb51c.png?1587911557
+  art_crop: https://cards.scryfall.io/art_crop/front/c/e/ce76f38f-566e-49ff-b197-510cfa1cb51c.jpg?1587911557
+  border_crop: https://cards.scryfall.io/border_crop/front/c/e/ce76f38f-566e-49ff-b197-510cfa1cb51c.jpg?1587911557
+mana_cost: "{W}"
+cmc: 1.0
+type_line: Creature — Human Warrior
+oracle_text: Banding (Any creatures with banding, and up to one without, can attack
+  in a band. Bands are blocked as a group. If any creatures with banding you control
+  are blocking or being blocked by a creature, you divide that creature's combat damage,
+  not its controller, among any of the creatures it's being blocked by or is blocking.)
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Banding
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set: ice
+set_name: Ice Age
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ce76f38f-566e-49ff-b197-510cfa1cb51c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A73b70a48-b62c-4fdf-9c2d-c6d6688f9ac8&unique=prints
+collector_number: '41'
+digital: false
+rarity: common
+flavor_text: |-
+  "Give me a thousand such Warriors and I could change the world."
+  —Avram Garrisson, Leader of the Knights of Stromgald
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Poole
+artist_ids:
+- bfdeaf09-f915-4058-8e8b-bcac3bc43c33
+illustration_id: b59bf166-7fc5-4487-bba0-acf324ff67f7
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17951
+prices:
+  usd: '0.13'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.03'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2701
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kjeldoran+Warrior&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kjeldoran+Warrior&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kjeldoran+Warrior
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/4769?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kjeldoran+Warrior&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kjeldoran+Warrior&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

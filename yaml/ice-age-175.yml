@@ -1,0 +1,110 @@
+---
+object: card
+id: a85ae675-56ca-4a00-83d2-ee035f33d6d1
+oracle_id: 0fca46ec-ec1a-4e6c-bb0e-cdb834b38c92
+multiverse_ids:
+- 2611
+tcgplayer_id: 4603
+cardmarket_id: 6387
+name: Battle Frenzy
+lang: en
+released_at: '1995-06-03'
+uri: https://api.scryfall.com/cards/a85ae675-56ca-4a00-83d2-ee035f33d6d1
+scryfall_uri: https://scryfall.com/card/ice/175/battle-frenzy?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/8/a85ae675-56ca-4a00-83d2-ee035f33d6d1.jpg?1562926446
+  normal: https://cards.scryfall.io/normal/front/a/8/a85ae675-56ca-4a00-83d2-ee035f33d6d1.jpg?1562926446
+  large: https://cards.scryfall.io/large/front/a/8/a85ae675-56ca-4a00-83d2-ee035f33d6d1.jpg?1562926446
+  png: https://cards.scryfall.io/png/front/a/8/a85ae675-56ca-4a00-83d2-ee035f33d6d1.png?1562926446
+  art_crop: https://cards.scryfall.io/art_crop/front/a/8/a85ae675-56ca-4a00-83d2-ee035f33d6d1.jpg?1562926446
+  border_crop: https://cards.scryfall.io/border_crop/front/a/8/a85ae675-56ca-4a00-83d2-ee035f33d6d1.jpg?1562926446
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Instant
+oracle_text: |-
+  Green creatures you control get +1/+1 until end of turn.
+  Nongreen creatures you control get +1/+0 until end of turn.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set: ice
+set_name: Ice Age
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a85ae675-56ca-4a00-83d2-ee035f33d6d1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0fca46ec-ec1a-4e6c-bb0e-cdb834b38c92&unique=prints
+collector_number: '175'
+digital: false
+rarity: common
+flavor_text: |-
+  "One day you, too, shall drink the blood of your foes. It is something to look forward to."
+  —Toothlicker Harj, Orcish Captain
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brian Snõddy
+artist_ids:
+- 770b4e16-de76-49ed-949f-84e6d2e06d25
+illustration_id: 10148b63-8021-4039-8f49-f10e90a7565e
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 24441
+prices:
+  usd: '0.10'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2611
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Battle+Frenzy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Battle+Frenzy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Battle+Frenzy
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/4603?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Battle+Frenzy&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Battle+Frenzy&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
